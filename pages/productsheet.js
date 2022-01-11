@@ -1,7 +1,7 @@
 import Head from 'next/head'
-import Banner from './components/Banner'
-import Header from './components/Header'
-import ProductFeed from './components/ProductFeed'
+import Banner from '../components/Banner'
+import Header from '../components/Header'
+import ProductFeed from '../components/ProductFeed'
 
 export default function productsheet({products}) {
   return (
