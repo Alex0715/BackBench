@@ -17,7 +17,7 @@ function Header() {
     return (
         <header>
         <div className="bg-gray-300 flex flex-grow items-center p-1 py-2">
-        <Image onClick= {()=> router.push('http://localhost:3000/')}
+        <Image onClick= {()=> router.push('https://back-benchers.vercel.app/')}
         src='/logoa.png'
         width={150}
         height={35}
@@ -46,7 +46,7 @@ function Header() {
         </div>
 {/* bottom */}
         <div className="bg-gray-700 flex items-center text-white p-2 space-x-3">
-            <p onClick={() =>router.push("/")} className="link flex items-center">
+            <p onClick={() =>router.push("https://back-benchers.vercel.app/")} className="link flex items-center">
                 <MenuIcon className="h-6 mr-1"/>
                 All
             </p>
