@@ -52,7 +52,7 @@ function Footer() {
             </h2>
             <ul className="mb-8 space-y-2 text-sm list-none">
               <li>
-                <a className="text-gray-400 hover:text-gray-800">Home</a>
+                <a className="text-gray-400 hover:text-gray-800" href="https://back-benchers.vercel.app/">Home</a>
               </li>
               <li>
                 <a className="text-gray-400 hover:text-gray-800">About Us</a>
@@ -61,7 +61,7 @@ function Footer() {
                 <a className="text-gray-400 hover:text-gray-800">Blogs</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-gray-800">Contact Us</a>
+                <a className="text-gray-400 hover:text-gray-800" href="https://www.facebook.com/arjun.rokz.75/">Contact Us</a>
               </li>
             </ul>
           </div>
@@ -90,7 +90,7 @@ function Footer() {
             </h2>
             <ul className="mb-8 space-y-2 text-sm list-none">
               <li>
-                <a className="text-gray-400 hover:text-gray-800">Chirantan Bose</a>
+                <a className="text-gray-400 hover:text-gray-800" href="https://www.facebook.com/arjun.rokz.75/">Chirantan Bose</a>
               </li>
               <li>
                 <a className="text-gray-400 hover:text-gray-800">arjunbose.ar@gmail.com</a>
@@ -99,7 +99,7 @@ function Footer() {
                 <a className="text-gray-400 hover:text-gray-800">7003474297</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-gray-800">Contact for cheapest website development and management</a>
+                <a className="text-gray-400 hover:text-gray-800" href="https://www.facebook.com/arjun.rokz.75/">Contact for cheapest website development and management</a>
               </li>
             </ul>
           </div>
