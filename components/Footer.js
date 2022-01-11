@@ -107,7 +107,7 @@ function Footer() {
       </div>
       <div className="flex justify-center">
         <p className="text-base text-gray-400">
-          All rights reserved by @ BackBenchers_2021
+          All rights reserved by @ CB_2021
         </p>
       </div>
     </footer>
