@@ -1,7 +1,7 @@
 import Header from "./components/Header"
 import Link from "next/link";
 import {useRouter} from "next/router";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import Image from "next/image";
 function Billing() {
     
