@@ -93,13 +93,13 @@ function Footer() {
                 <a className="text-gray-400 hover:text-gray-800">Chirantan Bose</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-gray-800">Bijoy Dey</a>
+                <a className="text-gray-400 hover:text-gray-800">arjunbose.ar@gmail.com</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-gray-800">Mansij Banerjee</a>
+                <a className="text-gray-400 hover:text-gray-800">7003474297</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-gray-800">Ayushi Deb</a>
+                <a className="text-gray-400 hover:text-gray-800">Contact for cheapest website development and management</a>
               </li>
             </ul>
           </div>
