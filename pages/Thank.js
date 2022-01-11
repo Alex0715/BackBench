@@ -3,7 +3,7 @@ import Image from "next/image"
 import { StarIcon } from "@heroicons/react/outline"
 
 import {useRouter} from "next/router";
-import Footer from "../components/footer";
+import Footer from "../components/Footer";
 import Link from "next/link";
 function Thank() {
     const router= useRouter();
