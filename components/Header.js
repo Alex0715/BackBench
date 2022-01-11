@@ -8,6 +8,7 @@ import {useRouter} from "next/router";
 import { useSelector } from 'react-redux';
 import React from "react";
 import { selectItems } from "../slices/basketSlice";
+import Link from "next/link";
 
 
 function Header() {
@@ -25,7 +26,7 @@ function Header() {
         />
         <div  className="hidden sm:flex bg-yellow-400 flex items-center rounded-md flex-grow cursor-pointer hover:bg-yellow-500">
         <input className="p-3.5 h-full w-6 flex-grow rounded-l-md flex-shrink px-4" type="text" />
-        <SearchIcon onClick= {()=> router.push('/productsheet')} className="h-12 p-4"/>
+        <Link href='/productsheet'><SearchIcon onClick= {()=> router.push('/productsheet')} className="h-12 p-4"/></Link>
         </div>
         <div className="text-black flex items-center text-xs space-x-6 mx-6 whitespace-nowrap">
             <div className=" link ">
