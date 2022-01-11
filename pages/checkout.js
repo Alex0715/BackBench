@@ -1,9 +1,9 @@
-import Header from "./components/Header"
+import Header from "../components/Header"
 import Image from "next/image"
 import { StarIcon } from "@heroicons/react/outline"
 
 import {useRouter} from "next/router";
-import Footer from "./components/Footer";
+import Footer from "../components/Footer";
 function checkout() {
     const router= useRouter();
     return (
